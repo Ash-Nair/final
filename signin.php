@@ -24,6 +24,6 @@ echo $password."<br>";*/
 
 //return result
 //return to homepage
-header("Location: final.php ");
+header("Location: index.php ");
 
 ?>
